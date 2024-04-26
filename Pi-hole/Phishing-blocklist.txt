@@ -1,0 +1,17 @@
+#
+## This list contains known phising links that have bin reported by our community or by one of our employees. For transparency reasons we try to give an explanation with every domain we block.
+## This list is maintained by Velvox cybersecurity. Want to contribute to this list? send a mail to contribute@velvox.net
+#
+
+
+# oauth.oa2.lol is used in multiple Discord login steal scams where the user is getting shown a Discord login screen and when he/she log's a log-in shows up from a malicious location and the account can be used to distribute links to other (NWSF) scam servers
+0.0.0.0 oauth.oa2.lol
+# free-leaks.com, stownrusis.com, ebaticalfel.com & iedprivatedqu.com are used in a discord scam, it is a follow up form oauth.oa2.lol this domains "show" ads these are 1x1 pixel that are loaded. This is how the scammer's make money from there targets even when they cant get access to there accounts
+0.0.0.0 free-leaks.com
+0.0.0.0 stownrusis.com
+0.0.0.0 ebaticalfel.com
+0.0.0.0 iedprivatedqu.com
+# lookup.guildmember.xyz is used in a Discord scam where you verify with a fake Discord bot that leads to this website where the user is presented a fake Discord login screen that will store there login data if they login
+0.0.0.0 lookup.guildmember.xyz
+# is.gd is used as a url shortner of some sort that redirects to lookup.guildmember.xyz
+0.0.0.0 is.gd
