@@ -5,13 +5,13 @@
 
 
 # oauth.oa2.lol is used in multiple Discord login steal scams where the user is getting shown a Discord login screen and when he/she log's a log-in shows up from a malicious location and the account can be used to distribute links to other (NWSF) scam servers
-||oauth.oa2.lol
+||oauth.oa2.lol^
 # free-leaks.com, stownrusis.com, ebaticalfel.com & iedprivatedqu.com are used in a discord scam, it is a follow up form oauth.oa2.lol this domains "show" ads these are 1x1 pixel that are loaded. This is how the scammer's make money from there targets even when they cant get access to there accounts
-||free-leaks.com
-||stownrusis.com
-||ebaticalfel.com
-||iedprivatedqu.com
+||free-leaks.com^
+||stownrusis.com^
+||ebaticalfel.com^
+||iedprivatedqu.com^
 # lookup.guildmember.xyz is used in a Discord scam where you verify with a fake Discord bot that leads to this website where the user is presented a fake Discord login screen that will store there login data if they login
-||lookup.guildmember.xyz
+||lookup.guildmember.xyz^
 # is.gd is used as a url shortner of some sort that redirects to lookup.guildmember.xyz
-||is.gd
+||is.gd^
