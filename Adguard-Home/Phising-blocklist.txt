@@ -15,3 +15,5 @@
 ||lookup.guildmember.xyz^
 # is.gd is used as a url shortner of some sort that redirects to lookup.guildmember.xyz
 ||is.gd^
+# cn7huou071bc73alb01g.enhancesecurity.co.in is used in a McAfee popup scam to sell real McAfee over a affiliate link.
+||cn7huou071bc73alb01g.enhancesecurity.co.in^
