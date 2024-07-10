@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Velvox Filters</h1>
-<h3 align="center">The lists for a more secure internet experiance</h3>
+<h3 align="center">The lists for a more secure internet experience</h3>
 
 ## These blocklists are provided for free use personal and commercialy.
 Because we want to provide DNS blocklists that are free to use for everyone.
