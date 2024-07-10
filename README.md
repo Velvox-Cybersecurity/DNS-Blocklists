@@ -11,4 +11,4 @@ Because we want to provide DNS blocklists that are free to use for everyone.
 ## The blocklists are maintained by Velvox and it community.
 This is a side project of Velvox Cybersecurity.
 
-<a href="mailto:contribute@velvox.net">Contribute</a>
+<a href="mailto:contribute@velvox.net">Contribute</a> <a href="https://keys.openpgp.org/search?q=contribute@velvox.net" target="_blank">PGP encrypted mail</a>
