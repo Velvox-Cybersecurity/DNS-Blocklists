@@ -17,3 +17,19 @@
 0.0.0.0 is.gd
 # cn7huou071bc73alb01g.enhancesecurity.co.in is used in a McAfee popup scam to sell real McAfee over a affiliate link.
 0.0.0.0 cn7huou071bc73alb01g.enhancesecurity.co.in
+# verify.moigs.lol is used in a discord verification scam, and is used to take over user accounts.
+0.0.0.0 *.moigs.lol
+# The domain's are used in a adware/account take over scam, while spreading "porn" on a by minors used chat application.
+0.0.0.0 locconn.com
+0.0.0.0 onepiecered.co
+0.0.0.0 best-links.org
+0.0.0.0 free-content.pro
+0.0.0.0 direct-links.net
+# In a other Discord adware/account take over scam the following domain's are used.
+0.0.0.0 free-leaks.com
+0.0.0.0 kmendation.com
+# These domains are also used in a adware/account take over scam.
+0.0.0.0 direct-link.net
+0.0.0.0 link-target.net
+0.0.0.0 link-hub.net
+0.0.0.0 link-center.net
