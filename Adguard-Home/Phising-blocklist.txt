@@ -16,4 +16,20 @@
 # is.gd is used as a url shortner of some sort that redirects to lookup.guildmember.xyz
 ||is.gd^
 # cn7huou071bc73alb01g.enhancesecurity.co.in is used in a McAfee popup scam to sell real McAfee over a affiliate link. For security reasons we block the full domain and not only the subdomain.
-||*.enhancesecurity.co.in^$important
+||*.enhancesecurity.co.in^
+# verify.moigs.lol is used in a discord verification scam, and is used to take over user accounts.
+||*.moigs.lol^
+# The domain's are used in a adware/account take over scam, while spreading "porn" on a by minors used chat application.
+||locconn.com^
+||onepiecered.co^
+||best-links.org^
+||free-content.pro^
+||direct-links.net^
+# In a other Discord adware/account take over scam the following domain's are used.
+||free-leaks.com^
+||kmendation.com^
+# These domains are also used in a adware/account take over scam.
+||direct-link.net^
+||link-target.net^
+||link-hub.net^
+||link-center.net^
